@@ -13,4 +13,4 @@
 ## Ferramentas e Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg](https://cdn-icons-png.flaticon.com/512/732/732220.png)" width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40"/>
