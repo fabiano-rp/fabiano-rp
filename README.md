@@ -4,8 +4,8 @@
 
 - 🌳 I'm a Forest Engineer.
 - 📘 I'm currently studying for a Masters degree in Forest Engineering.
-- 💻 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Data Science Pojects.
+- 💻 I’m currently learning Python and Machine Learning Techniques.
+- 🎯 I’m looking to collaborate on Data Science Pojects.
 - 💬 Ask me about Forest Mensuration, Modelling Forest Growth or R language.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Bass and love to cook for my friends and family.
