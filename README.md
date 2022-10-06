@@ -3,7 +3,7 @@
 
 
 - 🌳 I'm a Forest Engineer.
-- 📘 I'm currently studying for a Masters degree in Forest Engineering.
+- 📘 I'm currently studying for a master degree in Forest Engineering.
 - 💻 I’m currently learning Python and Machine Learning Techniques.
 - 🎯 I’m looking to collaborate on Data Science Pojects.
 - 💬 Ask me about Forest Mensuration, Modelling Forest Growth or R language.
