@@ -18,6 +18,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="60" height="60"/>  <img src="https://img.icons8.com/color/344/power-bi.png" width="60" height="60"/>  <img src="https://curso-r.github.io/main-dashboards/slides/img/hex-shiny.png" width="60" height="60"/> 
 
+## My resume
+[Fabiano's Resume](index.pdf)
 
 ## Contacts:
 
