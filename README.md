@@ -12,4 +12,8 @@
 
 ## Ferramentas e Tecnologias
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/888/888883.png" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/888/888874.png" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/888/888883.png" width="40" height="40"/>  <img src="https://cdn-icons-png.flaticon.com/512/888/888874.png" width="40" height="40"/> 
+
+## Estou aprendendo
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="40" height="40"/> 
